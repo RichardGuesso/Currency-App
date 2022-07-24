@@ -1,5 +1,8 @@
 # currency-app
 
+## Preview in Heroku
+[Open preview](https://rich-currency-app.herokuapp.com/)
+
 ## Project Preview
 ![preview](https://user-images.githubusercontent.com/65194302/180626603-a9ee27a6-aabd-4308-a709-9b787702fde6.gif)
 
